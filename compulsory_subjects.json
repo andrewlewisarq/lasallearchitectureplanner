@@ -1,0 +1,342 @@
+[
+  {
+    "id":"YY043_4thFall",
+    "name":"Unit architectural design (projects 7)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY043_4thSpring",
+    "name":"Unit architectural design (projects 7)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY043_5thFall",
+    "name":"Unit architectural design (projects 7)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY043_5thSpring",
+    "name":"Unit architectural design (projects 7)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY049 _4thFall",
+    "name":"Unit urban project (Urbanism I)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY049 _4thSpring",
+    "name":"Unit urban project (Urbanism I)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY049 _5thFall",
+    "name":"Unit urban project (Urbanism I)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY049 _5thSpring",
+    "name":"Unit urban project (Urbanism I)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY023_4thFall",
+    "name":"Structures workshop (applied structures 1)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"4th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY023_5thFall",
+    "name":"Structures workshop (applied structures 1)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"5th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY037 _4thFall",
+    "name":"Theory seminar (Composition I)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"4th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY037 _5thFall",
+    "name":"Theory seminar (Composition I)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"5th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY044_4thFall",
+    "name":"Unit tectonic project (projects 8)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY044_4thSpring",
+    "name":"Unit tectonic project (projects 8)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY044_5thFall",
+    "name":"Unit tectonic project (projects 8)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY044_5thSpring",
+    "name":"Unit tectonic project (projects 8)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY025_4thSpring",
+    "name":"Workshop energy (Instalations and energy II)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"4th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY025_5thSpring",
+    "name":"Workshop energy (Instalations and energy II)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"5th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY038_4thSpring",
+    "name":"Expression seminar (Composition II)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"4th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY038_5thSpring",
+    "name":"Expression seminar (Composition II)",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"5th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY045_4thFall",
+    "name":"Unit architectural design (projects 9)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY045_4thSpring",
+    "name":"Unit architectural design (projects 9)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY045_5thFall",
+    "name":"Unit architectural design (projects 9)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY045_5thSpring",
+    "name":"Unit architectural design (projects 9)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY050_4thFall",
+    "name":"Unit urban project (Urbanism II)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY050_4thSpring",
+    "name":"Unit urban project (Urbanism II)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY050_5thFall",
+    "name":"Unit urban project (Urbanism II)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY050_5thSpring",
+    "name":"Unit urban project (Urbanism II)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY046_4thFall",
+    "name":"Unit tectonic project (projects 10)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY046_4thSpring",
+    "name":"Unit tectonic project (projects 10)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"4th  Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY046_5thFall",
+    "name":"Unit tectonic project (projects 10)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY046_5thSpring",
+    "name":"Unit tectonic project (projects 10)",
+    "type":"Compulsory",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY031_4thFall",
+    "name":"Practice in firms",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"4th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+    },
+     {
+    "id":"YY031_5thFall",
+    "name":"Practice in firms",
+    "type":"Compulsory",
+    "credits":6,
+    "semester":"5th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id":"TFG_Projects",
+    "name":"TFG in Architectural design",
+    "type":"TFG",
+    "credits":6,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"TFG_Urban",
+    "name":"TFG in Urban project",
+    "type":"TFG",
+    "credits":6,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"TFG_Tectonics",
+    "name":"TFG in Tectonic project",
+    "type":"TFG",
+    "credits":6,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  }
+]

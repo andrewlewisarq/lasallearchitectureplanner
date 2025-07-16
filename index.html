@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Architecture 4th & 5th Year Planner</title>
+  <link href='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>ARCHITECTURE 4TH AND 5TH YEAR PLANNER</h1>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  Use this planner to organize your 4th and 5th year Architecture curriculum.
+  </p>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  Choose which compulsory and elective subjects 
+  you will take each year and the calendars will fill automatically. 
+  </p>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  FALL semester (SEMESTER 1) is from September to January. SPRING semester (SEMESTER 2) is from February to June.
+  </p>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  Choose the area of your final thesis (Design, Tectonic or Urban)
+  </p>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  Use the CHECK button to view potential schedule overlaps and to make sure you meet credit requirements. 
+  </p>
+  <p style="max-width: 900px; margin: 0 auto 10px; text-align: center; font-size: 16px; color: #4a5568;">
+  Use the RESET button to erase the selection and start over.
+  </p>
+
+  <div id="steps-container"></div>
+
+  <div class="subject-list" id="step5">
+  <h2>5 - CHOOSE YOUR FINAL THESIS (TFG)</h2>
+  <label>
+    <select id="tfgSelect">
+      <option value="">-- Choose your thesis option --</option>
+    </select>
+  </label>
+  </div>
+
+  <h2>Calendars</h2>
+  <div id="calendars">
+    <div><h3>Fall 4th Year</h3><div id="cal4F"></div></div>
+    <div><h3>Spring 4th Year</h3><div id="cal4S"></div></div>
+    <div><h3>Fall 5th Year</h3><div id="cal5F"></div></div>
+    <div><h3>Spring 5th Year</h3><div id="cal5S"></div></div>
+  </div>
+
+  <button onclick="location.reload()" style="margin-right: 10px;">RESET</button>
+<button onclick="runChecks()" style="margin-top:20px; padding:10px;">CHECK</button>
+<div id="checkResults" style="margin-top:10px; font-weight:bold;"></div>
+<div id="summary">
+    <h2>Credit Summary</h2>
+    <pre id="creditSummary"></pre>
+  </div>
+
+  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js'></script>
+  <script src="app.js"></script>
+</body>
+</html>
